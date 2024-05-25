@@ -85,4 +85,3 @@ Feel free to submit issues and pull requests. For major changes, please open an 
 
 ---
 
-By following this tutorial, you should be able to set up and run the voice assistant project on your local machine. If you encounter any issues or have questions, feel free to open an issue on the GitHub repository.
