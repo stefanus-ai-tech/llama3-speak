@@ -75,9 +75,6 @@ python3 main.py
 4. **Text to Speech**:
     - The response text is converted to speech using Coqui TTS and played back.
 
-## License
-
-This project is licensed under the MIT License. See the LICENSE file for more details.
 
 ## Contributing
 
