@@ -1,0 +1,8 @@
+sounddevice
+numpy
+whisper
+requests
+TTS
+pydub
+simpleaudio
+wave
